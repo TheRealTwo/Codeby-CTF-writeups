@@ -3,7 +3,7 @@
 
 После вывода приветствия некого `Joe`, меняется и ссылка: `http://62.173.140.174:16004/joe`. Хинт говорит о том, что используются шаблоны Flask.
 
-На ум сразу же приходит SSTI (Server-Side Template Injection, [Подробнее](https://medium.com/@nyomanpradipta120/ssti-in-flask-jinja2-20b068fdaeee)). Стандартной проверкой на это будет ссылка `http://62.173.140.174:16004/{{7*7}}`:
+На ум сразу же приходит SSTI (Server-Side Template Injection, подробнее [тут](https://medium.com/@nyomanpradipta120/ssti-in-flask-jinja2-20b068fdaeee) и ОСОБЕННО [тут](https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection/jinja2-ssti)). Стандартной проверкой на это будет ссылка `http://62.173.140.174:16004/{{7*7}}`:
 
 ![](writeup/hello.jpg)
 
