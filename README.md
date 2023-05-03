@@ -12,6 +12,7 @@
 [Я не робот!](tasks/web/im_not_a_robot) (Лёгкий, 200)<br/>
 [Поздравительное приложение](tasks/web/congrats_application) (Лёгкий, 250)<br/>
 [Прокси](tasks/web/proxy) (Лёгкий, 250)<br/>
+[Базовая авторизация](tasks/web/basic_auth) (Лёгкий, 250)<br/>
 [Присутствие отсутствия](tasks/web/presence_of_absence) (Лёгкий, 400)<br/>
 [Купоны64](tasks/web/coupons64) (Средний, 350)<br/>
 [Клиент всегда прав](tasks/web/customer_is_always_right) (Средний, 500)<br/>
