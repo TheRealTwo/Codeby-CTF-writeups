@@ -5,6 +5,7 @@
 ## Таски (те, что сам решил, дополнения приветствуются) ##
 ### Веб ###
 [Приключения с флагом](tasks/web/adventures_with_flag) (Лёгкий, 100)<br/>
+[Банка для печенья](tasks/web/cookie_jar) (Лёгкий, 100)<br/>
 [Обычная страница](tasks/web/usual_page) (Лёгкий, 150)<br/>
 [GETman и POSTman](tasks/web/getman_and_postman) (Лёгкий, 150)<br/>
 [Я не робот!](tasks/web/im_not_a_robot) (Лёгкий, 200)<br/>
