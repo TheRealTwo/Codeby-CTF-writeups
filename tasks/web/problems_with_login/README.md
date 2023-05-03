@@ -4,4 +4,4 @@
 >
 > IP: [62.173.140.174:16008](http://62.173.140.174:16008)
 
-[Write-up](WRITRUP.md)
+[Write-up](WRITERUP.md)
