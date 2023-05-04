@@ -23,3 +23,4 @@
 ### Администрирование ###
 
 [Калькулятор](tasks/admin/calculator) (Лёгкий, 200)<br/>
+[Безопасный калькулятор](tasks/admin/secure_calculator) (Лёгкий, 350)<br/>
