@@ -1,5 +1,5 @@
-# Codeby CTF 2023 #
-20-22 апреля 2023 | <a href="https://event.codeby.games/" target="_blank">Сайт</a><br/>
+# Codeby CTF #
+<a href="https://codeby.games/" target="_blank">Сайт</a><br/>
 ### ВНИМАНИЕ, ЭТО НЕОФИЦИАЛЬНЫЕ РАЙТАПЫ! ###
 По всем вопросам пишите в тг: [@lutik_bcup](https://t.me/lutik_bcup)<br/>
 ## Таски (те, что сам решил, дополнения приветствуются) ##
