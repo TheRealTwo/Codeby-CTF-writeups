@@ -18,6 +18,7 @@
 [Сломанный ящик](tasks/web/broken_box) (Лёгкий, 300)<br/>
 [Присутствие отсутствия](tasks/web/presence_of_absence) (Лёгкий, 400)<br/>
 
+[Базовая авторизация 2](tasks/web/basic_auth_2) (Средний, 300)<br/>
 [Купоны64](tasks/web/coupons64) (Средний, 350)<br/>
 [Клиент всегда прав](tasks/web/customer_is_always_right) (Средний, 500)<br/>
 
