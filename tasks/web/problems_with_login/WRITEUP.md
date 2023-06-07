@@ -10,7 +10,7 @@ Sql инъекции тоже никакие не проходят, ничего
 function checkForm() {
     let login = document.forms["f0rm0chk4"]["email"].value;
     let password = document.forms["f0rm0chk4"]["password"].value;
-    if (login == "admin@admin.admin" && password == "CODEBY{cl13nt_s1de_l0g1n}") {
+    if (login == "admin@admin.admin" && password == "CODEBY{****************}") {
         alert("OK!");
     } else {
         alert("Wrong Credentials!");
@@ -18,4 +18,4 @@ function checkForm() {
 }
 ```
 
-А логиниться-то не надо, оказывается; нужен лишь пароль: `CODEBY{cl13nt_s1de_l0g1n}`
+А логиниться-то не надо, оказывается; нужен лишь пароль: `CODEBY{****************}`
