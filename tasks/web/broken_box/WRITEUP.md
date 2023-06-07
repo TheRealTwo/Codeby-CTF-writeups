@@ -19,4 +19,4 @@
 <text x="20" y="35" class="small">&xxe;</text>
 </svg>
 ```
-Загружаем и получаем флаг: `CCODEBY{xmldestroyer31}`
+Загружаем и получаем флаг: `CCODEBY{**********}`
