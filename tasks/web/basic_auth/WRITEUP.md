@@ -18,4 +18,4 @@ SELECT * FROM users WHERE username="admin";
 
  Пробуем `admin` и `test" OR 1=1--`:
  
-    FLAG: CODEBY{pwn3d_4g41n_d34r_4dm1n}
+    FLAG: CODEBY{************}
