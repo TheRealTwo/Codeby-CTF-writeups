@@ -29,4 +29,4 @@ while "CODEBY" not in data:
 	print(data)
 ```
 
-    [!] FLAG: CODEBY{W3bS0ck3t3nj03r24680}
+    [!] FLAG: CODEBY{****************}
