@@ -27,4 +27,4 @@
 
 Идём смотреть куки на вебхуке и видим флаг:
 
-`flag=CODEBY{r3fl3cted_XSS_expl0it3d}`
+`flag=CODEBY{***********}`
