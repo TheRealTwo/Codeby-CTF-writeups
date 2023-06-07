@@ -14,6 +14,6 @@
 
 Вставляем получившийся купон на проверку:
 
-    Valid coupon for CODEBY{wh4t_m34ns_s1xty_f0ur} discount for truly l33t dev!
+    Valid coupon for CODEBY{*************} discount for truly l33t dev!
 
 Как по мне, слишком уж простые 350 баллов для среднего таска, не правда ли?
