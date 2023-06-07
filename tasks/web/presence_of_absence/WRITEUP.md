@@ -20,6 +20,6 @@
     $ strings -n 7 favicon.ico                                          
     CODEBY{IT IS NOT A FLAG BUT YOU CAN TRY}
     CODEBY{MAYBE LOWER ?}
-    CODEBY{1_L0v3_C4ndy}
+    CODEBY{*************}
 
 Флаг, соответственно, самый нижний. Слишком много баллов дают за него, чтобы он был лишь посредственным таском из категории Веб, не так ли?
